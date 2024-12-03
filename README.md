@@ -1,7 +1,7 @@
 <h1> [AWS SaaS Company Sales Transaction] </h1>
 
 ## 1. Project Overview
-This project analyzes business data to extract insights, improve decision-making, and identify key trends. The primary focus is to optimizing profit transaction in Finance Industry. 
+Proyek ini menganalisis data bisnis untuk mengekstrak wawasan, meningkatkan pengambilan keputusan, dan mengidentifikasi tren utama. Fokus utamanya adalah mengoptimalkan transaksi laba di Industri Keuangan. 
 
 Key Objectives:
 - Objective 1: Mengetahui faktor-faktor yang mempengaruhi keuntungan penjualan lisensi platform Amazon Website Services pada industri keuangan.
