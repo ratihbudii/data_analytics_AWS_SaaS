@@ -46,7 +46,7 @@ Key Objectives:
 Di Industri Finance, faktor yang memiliki hubungan positif dengan profit adalah penjualan. Region customer juga mempengaruhi profit dalam hal ini. Tetapi, terjadi hal sebaliknya pada diskon. Diskon memiliki hubungan negatif dengan profit. Semakin penjualan meningkat, maka profit juga meningkat. Namun, diskon penjualan meningkat, maka profit akan menurun. 
 ### 5.2 Actionable Recommendation
 Rekomendasi yang dapat diberikan : <br> 
-Jika penyedia platform atau AWS ingin penjualannya untuk setiap segment meningkat dan setiap industri seimbang (atau lebih naik) labanya, disarankan untuk memberikan diskon penjualan kepada customer atau pembeli di bawah sama dengan dari 20 persen. Sebab, dengan diskon yang rendah, laba yang diperoleh semakin tinggi. Diikuti dengan harga jual yang ditawarkan oleh penyedia platform atau AWS. 
+Jika perusahaan ini ingin penjualannya untuk setiap segment meningkat dan setiap industri seimbang (atau lebih naik) labanya, disarankan untuk memberikan diskon penjualan kepada customer atau pembeli di bawah sama dengan dari 20 persen. Sebab, dengan diskon yang rendah, laba yang diperoleh semakin tinggi. Diikuti dengan harga jual yang ditawarkan oleh penyedia platform atau AWS. 
 
 ## 6. Contact
 - Name: Ratih Budi Setyorini
