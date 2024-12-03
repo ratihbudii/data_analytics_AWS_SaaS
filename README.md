@@ -52,4 +52,4 @@ Jika penyedia platform atau AWS ingin penjualannya untuk setiap segment meningka
 - Name: Ratih Budi Setyorini
 - Email: ratih.budi97@gmail.com
 - LinkedIn: https://linkedin.com/in/ratih-budi-setyorini
-- Tableu public : 
+- Tableu public : https://public.tableau.com/views/DashboardAWSSaaS/OverviewAWSSales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
